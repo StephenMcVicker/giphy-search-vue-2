@@ -2,7 +2,7 @@
   figure
     img(:src="gif.images.original.url")
     figcaption Embed URL: 
-    input(ref="url" type="text" :value="gif.embed_url")
+    input(ref="url" readonly type="text" :value="gif.embed_url")
     button(@click="copyURL") Copy
 </template>
 

@@ -13,6 +13,8 @@ Little touches were added such as the custom-styled scroll bars and the ability 
 
 Gif display is limited to 12 results and is mobile friendly.
 
+LIVE DEMO (hosted on Netlify): https://giphy-search-94c768.netlify.app/
+
 ## Tech Stack
 
 Vue,

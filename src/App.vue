@@ -5,7 +5,7 @@
     footer
       p Created by Stephen McVicker
       p View source on {{' '}}
-        a(href="https://github.com/stephenmcvicker/portfolio"
+        a(href="https://github.com/StephenMcVicker/giphy-search-vue-2"
           target="_blank"
           rel="noopener noreferrer") Github
 </template>
